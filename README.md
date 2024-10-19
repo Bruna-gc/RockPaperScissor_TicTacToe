@@ -6,4 +6,4 @@ _**Interface of Rock Paper Scissors**_
 
 
 _**Interface of Tic Tac Toe**__
-<img wwidth="40%" height="auto" alt="capture_ttt" src="https://github.com/user-attachments/assets/fa6c7494-33e9-4de9-9407-53f184356258">
+<img width="60%" height="auto" alt="capture_ttt" src="https://github.com/user-attachments/assets/fa6c7494-33e9-4de9-9407-53f184356258">
