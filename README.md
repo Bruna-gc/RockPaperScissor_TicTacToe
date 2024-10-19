@@ -2,7 +2,7 @@
 AP Computer Science final Project - Tic tac toe and Rock paper scissor
 
 _**Interface of Rock Paper Scissors**_
-<img width="60%" height="auto" alt="capture_rps" src="https://github.com/user-attachments/assets/ae6c74ec-d89b-4596-8ddc-78573b6f0438"><br><br>
+<br><img width="60%" height="auto" alt="capture_rps" src="https://github.com/user-attachments/assets/ae6c74ec-d89b-4596-8ddc-78573b6f0438"><br><br>
 
 
 _**Interface of Tic Tac Toe**__
